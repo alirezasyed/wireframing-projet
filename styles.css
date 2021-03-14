@@ -1,6 +1,21 @@
+/*UTILITY*/
+
+.flotleft {
+    float: left;
+}
+
+.floatright {
+    float: right;
+}
+
 body {
     margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(100, 100, 100);
 }
+
+
+/*STRUCTURE*/
 
 header {
     width: 100%;
@@ -8,6 +23,13 @@ header {
     background: rgb(0, 0, 0);
     padding: 5px 0;
     margin-bottom: 5px;
+}
+
+#logo {
+    width: 200px;
+    height: 60px;
+    background: rgb(200, 200, 200);
+    float: left;
 }
 
 section.hero {
