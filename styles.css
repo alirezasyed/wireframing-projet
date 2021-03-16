@@ -156,6 +156,21 @@ section.organize {
     margin-bottom: 5px;
 }
 
+section.organize img {
+    width: 440px;
+    height: 225px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background: rgb(200, 200, 200);
+}
+
+.organizecontent {
+    float: left;
+    margin-left: 20px;
+    width: 440px;
+}
+
 
 /*=========================
     share
